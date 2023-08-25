@@ -1,0 +1,19 @@
+## Byte-compiled config files
+*.elc
+
+## Auto-saved files
+.\#*
+\#*
+*~
+
+## ELPA
+/lib/elpa*
+
+## Private files
+/var
+/eshell
+.yas-compiled-snippets.el
+
+## backup files
+*.bak
+*.backup
